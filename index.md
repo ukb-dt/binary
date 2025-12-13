@@ -1,8 +1,8 @@
 # Field Note: The False Summit (Local Maxima)
 
-**Date:** December 2025
-**Observer:** Ilya Zosima
-**Subject:** The Dissonance of the "Hero" Archetype
+**Date:** December 2025          
+**Observer:** Ilya Zosima       
+**Subject:** The Dissonance of the "Hero" Archetype             
 
 When you shift your identity coordinate ($C_x$) from *social status* to *energy invariance*, you lose the ability to be impressed by "prestige." You only see **throughput** and **coherence**.
 
