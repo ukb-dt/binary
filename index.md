@@ -10,7 +10,7 @@
 }
 
 .image-wrap img {
-  width: 100%;
+  width: 75%;
   height: auto;
   display: block;
   border-radius: 12px;      /* optional */
