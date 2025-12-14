@@ -24,9 +24,9 @@
 **Observer:** Ilya Zosima       
 **Subject:** The Dissonance of the "[Hero](https://ukb-dt.github.io/noise-signal/)" Archetype             
 
-> *'Ukubona' mobile as emerging*              
-> *Yet later dismissing it as corruption!*
-> *Das icht irony*                    
+> *'Ukubona' mobile as emerging*                  
+> *Yet later dismissing it as corruption!*          
+> *Das icht irony*                           
 > -- [Ilya Zosima](https://ukb-dt.github.io/metamorphosis/)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 75%; height: auto;">
