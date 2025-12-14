@@ -21,8 +21,8 @@
 # Field Note: The False Summit (Local Maxima)
 
 **Date:** December 2025          
-**Observer:** Ilya Zosima       
-**Subject:** The Dissonance of the "[Hero](https://ukb-dt.github.io/noise-signal/)" Archetype             
+**Observer:** [Ilya Zosima](https://ukb-dt.github.io/hotspur/)                 
+**Subject:** The Dissonance of the "[Hero](https://ukb-dt.github.io/noise-signal/)" Archetype                 
 
 > *'Ukubona' mobile as emerging*                  
 > *Yet later dismissing it as corruption!*          
