@@ -27,7 +27,7 @@
 > *The irony in Ukubona mobile as emerging & later dismissing it as corruption!*             
 > -- [Ilya Zosima](https://ukb-dt.github.io/metamorphosis/)
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 75%; height: auto;">
   <iframe
     src="https://www.youtube.com/embed/64JpM894n8I"
     title="YouTube video player"
