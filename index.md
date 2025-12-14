@@ -22,7 +22,7 @@
 
 **Date:** December 2025          
 **Observer:** Ilya Zosima       
-**Subject:** The Dissonance of the "Hero" Archetype             
+**Subject:** The Dissonance of the "[Hero](https://ukb-dt.github.io/noise-signal/)" Archetype             
 
 When you shift your identity coordinate ($C_x$) from *social status* to *energy invariance*, you lose the ability to be impressed by "prestige." You only see **throughput** and **coherence**.
 
